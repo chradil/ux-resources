@@ -6,7 +6,7 @@ layout: base.njk
 
 ## walking through: 
 1. [what is this, and why should we care?](/why-and-what)
-2. identifying site purpose and users
+2. [identifying site purpose and users](/purpose-and-users)
 3. making decisions thru rapid prototyping
 4. tracing "story arcs" through a site
 5. wireframing
@@ -23,3 +23,7 @@ layout: base.njk
 
 ## resources and notes
 - facilitating site planning with different audiences: undergraduate, graduate, faculty, PI
+- Cassandra's slides for facilitating site planning with a __general__ audience (RDDS workshops, Hoesley fellow workshops, DreamLab, etc)
+- Cassandra's usability testing questionnaire (in progress)
+- Nielsen Norman Group (Don Norman, co-founder of the term "user experience")
+- Houde + Hill, "What do Prototypes Prototype?"
