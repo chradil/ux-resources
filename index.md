@@ -5,8 +5,8 @@ layout: base.njk
 
 
 ## walking through: 
-1. [what is this, and why should we care?](/why-and-what)
-2. [identifying site purpose and users](/purpose-and-users)
+1. [what is this, and why should we care?](/ux-resources/why-and-what)
+2. [identifying site purpose and users](/ux-resources/purpose-and-users)
 3. making decisions thru rapid prototyping
 4. tracing "story arcs" through a site
 5. wireframing
