@@ -47,3 +47,16 @@ a {
 	background-color: lightcyan;
 	color: black;
 }
+
+.logo{
+	display: flex;
+	align-items: center;
+	max-width: fit-content;
+	transition: 0.3s;
+	text-decoration: none;
+}
+
+.logo:hover{
+	rotate: 10deg;
+	background-color: lightgreen;
+}

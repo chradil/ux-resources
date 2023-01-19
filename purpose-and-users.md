@@ -32,3 +32,6 @@ In general, I would recommend identifying one primary audience and up to two add
 - Are there communities that are the subject of this work who should have access to it?
 
 ## Identifying purpose
+
+
+[Next](/ux-resources/prototyping)
