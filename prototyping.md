@@ -29,8 +29,6 @@ Here's how you can get collaborators from site brainstorming and discussion to p
 5. As a group, begin rapidly sketching out _wireframes_, rough pictures of what your interface might actually look like. The rougher the better - note that "bad drawings" are actually helpful for collaborative work at this stage, as they make collaborators feel more comfortable with their own drawing skills, and also remind the group that everything generated at this stage is experimental and can and should be changed ([source](https://www.nngroup.com/articles/how-to-get-stakeholders-to-sketch/)).
 
 
-<br>
-
 ## Getting from sketching to paper prototyping
 
 
@@ -45,4 +43,4 @@ https://www.nngroup.com/articles/paper-prototyping-cutout-kit/
 https://www.nngroup.com/articles/parallel-and-iterative-design/
 
 
-[Next -->]()
+[Next -->](/ux-resources/wireframing)
