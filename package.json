@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eleventy": "^1.0.6"
+    "eleventy": "^1.0.6",
+    "markdown-it-attrs": "^4.1.6"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2"

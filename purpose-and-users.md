@@ -7,6 +7,7 @@ layout: base.njk
 
 The first formal step in any project design process should always be to think about audience, or users. This is one of those questions that seems fairly obvious, but can end up being more complex than expected. When working with faculty, a PI may state that a project is "for" an intended audience, but in the course of conversation, it becomes apparent that they have someone entirely different in mind. 
 
+![drawing of a stick figure smiling over a screen](/ux-resources/assets/images/user.jpeg){.img-small .float-right}
 ### A non-exhaustive list of common audiences to keep in mind for our context:
 - Peer audiences - such as other academics in the field, or related fields
 - Students - who may be using the site in different ways
@@ -48,4 +49,4 @@ There are some design methods that can help re-orient collaborators to consider 
 You can choose one of these, or mix and match elements of multiple to make a customized design workshop for your collaborators. All these methods (and more, and customized versions of them!) can be useful in different circumstances - the trick is finding the right method for your use case. If none of these quite fit your needs, I recommend [Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions](https://franklin.library.upenn.edu/catalog/FRANKLIN_9977059134203681). It's a good set of resources and inspiration for design research methods.
 
 
-[Next](/ux-resources/prototyping)
+[Next -->](/ux-resources/prototyping)

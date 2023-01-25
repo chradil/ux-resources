@@ -38,11 +38,6 @@ strong {
 	background-color: yellow;
 }
 
-img {
-	max-width: 20vw;
-
-}
-
 a {
 	background-color: lightcyan;
 	color: black;
@@ -60,4 +55,23 @@ a {
 .logo:hover{
 	rotate: 10deg;
 	background-color: lightgreen;
+}
+
+.img-small{
+	max-width: 20vw;
+
+}
+.img-large{
+	max-width: 60vw;
+}
+
+.inline{
+	display: inline-block;
+}
+
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
 }

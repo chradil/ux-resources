@@ -18,12 +18,23 @@ Here's how you can get collaborators from site brainstorming and discussion to p
 2. Go down that list and start arranging the parts and pieces into a diagram of your project. This can go in a couple of different ways:
 	1. Arrange by _user flow_: make a flow chart of what order the user should encounter the content in.
 
-	![user flow diagram for a digital collection website](/ux-resources/assets/images/user-flow.jpeg)
-	
+	![user flow diagram for a digital collection website](/ux-resources/assets/images/user-flow.jpeg){.img-large}
+
 	2. Arrange into a rough wireframe: arrange the elements into a rough assembly of what your actual interface might look like.
 	- Either of these exercises will work; which version works best may depend on what emerged in the list of elements. 
 3. As a group, explain what is going on in your diagram and how it reflects earlier considerations about purpose, users, and the project proposal (if applicable). Work through points of concurrence or disagreement among collaborators' different versions. 
 4. As you talk through the diagram(s) generated within the group, make a new, collective list of elements that should go onto the site as they are agreed upon. This is a great time for whiteboards. 
+![wireframe image](/ux-resources/assets/images/wireframe-ux.jpeg){.img-small .inline .float-right}
+![another wireframe image](/ux-resources/assets/images/wireframe.JPG){.img-small .inline .float-right}
+5. As a group, begin rapidly sketching out _wireframes_, rough pictures of what your interface might actually look like. The rougher the better - note that "bad drawings" are actually helpful for collaborative work at this stage, as they make collaborators feel more comfortable with their own drawing skills, and also remind the group that everything generated at this stage is experimental and can and should be changed ([source](https://www.nngroup.com/articles/how-to-get-stakeholders-to-sketch/)).
+
+
+<br>
+
+## Getting from sketching to paper prototyping
+
+
+## Resources
 
 https://www.nngroup.com/articles/how-to-get-stakeholders-to-sketch/
 
@@ -32,3 +43,6 @@ https://www.nngroup.com/articles/paper-prototyping/
 https://www.nngroup.com/articles/paper-prototyping-cutout-kit/
 
 https://www.nngroup.com/articles/parallel-and-iterative-design/
+
+
+[Next -->]()
