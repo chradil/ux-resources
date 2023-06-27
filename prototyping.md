@@ -31,6 +31,7 @@ Here's how you can get collaborators from site brainstorming and discussion to p
 
 ## Getting from sketching to paper prototyping
 
+__in progress - check back soon!!!__
 
 ## Resources
 
